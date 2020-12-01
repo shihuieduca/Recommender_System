@@ -27,5 +27,5 @@
 
 
 
-
+**[Writing and Modeling](https://github.com/shihuieduca/Recommender_System/tree/master/%E8%AE%BA%E6%96%87%E7%A7%AF%E7%B4%AF)**
 
