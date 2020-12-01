@@ -21,7 +21,7 @@
 
 **3. Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation**
 
-<img src="pic/image-20201107202224146.png" alt="image-20201107202224146" style="zoom:67%;" />
+<img src="./pic/image-20201107202224146.png" alt="image-20201107202224146" style="zoom:67%;" />
 
 > 1. 现有的序列推荐模型缺乏对微行为（micro-behaviors）信息的利用，物品知识信息利用不足
 > 2. 微行为可以分为行为序列（GRU、LSTM）、物品序列（GGNN门控图神经网络）
