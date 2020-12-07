@@ -2,6 +2,11 @@
 
 # README
 
+**[机器学习_周志华](https://github.com/shihuieduca/Recommender_System/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E)**
+
+> - 第一章 绪论
+> - 第二章 模型评估与选择
+
 
 
 **[注意力机制Attention](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/Attention)**
