@@ -2,14 +2,14 @@
 
 # README
 
-**[Machine Learning-Zhou Zhihua](https://github.com/shihuieduca/Recommender_System/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E)**
+**[Machine Learning-Zhou Zhihua](https://github.com/shihuieduca/Recommender_System/tree/master/Machine%20Learning-Zhou%20Zhihua)**
 
 > - Chapter1 Introduction
 > - Chapter2 Model evaluation and selection
 
 
 
-**[Attention](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/Attention)**
+**[Attention](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model/Attention)**
 
 >  - Attention is all you need
 >  - Attention Transformer Note
@@ -24,19 +24,19 @@
 
 
 
-**[Knowledge Graph (KG)](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)**
+**[Knowledge Graph (KG)](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model/GNN)**
 
 
 
-**[End2End](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)**
+**[End2End](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model)**
 
 
 
-**[Writing and Modeling](https://github.com/shihuieduca/Recommender_System/tree/master/%E8%AE%BA%E6%96%87%E7%A7%AF%E7%B4%AF)**
+**[Writing and Modeling](https://github.com/shihuieduca/Recommender_System/tree/master/Expression)**
 
 
 
-**[Pytorch tutorial](https://github.com/shihuieduca/Recommender_System/tree/master/Pytorch%E6%95%99%E7%A8%8B)**
+**[Pytorch tutorial](https://github.com/shihuieduca/Recommender_System/tree/master/Pytorch%20tutorial)**
 
 
 
