@@ -17,14 +17,14 @@
 
 
 
-**[Graph Neural Network (GNN)](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)**
+**[Graph Neural Network (GNN)](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model/GNN)**
 
 > - Shen Huawei--GNN Note
 > - GNN PPT from Li Hongyi's teaching assistant
 
 
 
-**[Knowledge Graph (KG)](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model/GNN)**
+**[Knowledge Graph (KG)](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model/KG)**
 
 
 
@@ -32,7 +32,11 @@
 
 
 
-**[Writing and Modeling](https://github.com/shihuieduca/Recommender_System/tree/master/Expression)**
+**[Writing and Expression](https://github.com/shihuieduca/Recommender_System/tree/master/Expression)**
+
+
+
+**[take away message](https://github.com/shihuieduca/Recommender_System/tree/master/take%20away%20message)**
 
 
 
