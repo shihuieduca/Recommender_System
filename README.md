@@ -2,33 +2,33 @@
 
 # README
 
-**[机器学习_周志华](https://github.com/shihuieduca/Recommender_System/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E)**
+**[Machine Learning-Zhou Zhihua](https://github.com/shihuieduca/Recommender_System/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E)**
 
-> - 第一章 绪论
-> - 第二章 模型评估与选择
+> - Chapter1 Introduction
+> - Chapter2 Model evaluation and selection
 
 
 
-**[注意力机制Attention](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/Attention)**
+**[Attention](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/Attention)**
 
 >  - Attention is all you need
->  - Attention Transformer 笔记
->  - 详解Transformer    [英文版](http://jalammar.github.io/illustrated-transformer/)     [中文版](https://zhuanlan.zhihu.com/p/48508221)
+>  - Attention Transformer Note
+>  - Transformer    [English](http://jalammar.github.io/illustrated-transformer/)     [Chinese](https://zhuanlan.zhihu.com/p/48508221)
 
 
 
-**[图神经网络GNN](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)**
+**[Graph Neural Network (GNN)](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)**
 
-> - 沈华伟 图神经网络（有笔记）
-> - 图神经网络李宏毅助教内容整理
-
-
-
-**[知识图谱](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)**
+> - Shen Huawei--GNN Note
+> - GNN PPT from Li Hongyi's teaching assistant
 
 
 
-**[端到端模型](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)**
+**[Knowledge Graph (KG)](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)**
+
+
+
+**[End2End](https://github.com/shihuieduca/Recommender_System/tree/master/%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)**
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-**[Pytorch教程](https://github.com/shihuieduca/Recommender_System/tree/master/Pytorch%E6%95%99%E7%A8%8B)**
+**[Pytorch tutorial](https://github.com/shihuieduca/Recommender_System/tree/master/Pytorch%E6%95%99%E7%A8%8B)**
 
 
 
