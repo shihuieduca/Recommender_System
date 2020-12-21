@@ -24,7 +24,7 @@
 - vice versa  反之亦然
 - termed  把……称作
 - in essence  从本质上讲
-- Intuitively  通常
+- Intuitively  直观地，直觉地
 - derive  获得，起源
 - fidelity  保真度，忠诚，精确，尽责
 - distortion 变形，失真，扭曲，曲解
@@ -43,6 +43,17 @@
 - salient  突出部分，显著的，突出的，跳跃的
 - oblivious  遗忘的，健忘的，不注意的
 - suboptimal prediction  次优预测
+- ubiquitous  普遍存在的，无所不在的
+- crucial  重要的，决定性的，定局的，决断的
+- tackle the challenge  解决难题
+- from the holistic view of something  从xx的整体看出
+- empirically  以经验为主地
+- affinity  密切关系，吸引力，类同
+- successive  连续的，继承的，依次的，接替的
+- analogously  类似地，近似地
+- coefficient  系数，协同因素，合作的，共同作用的
+- distill  提取，蒸馏，使滴下
+- seamlessly  无缝地
 
 
 
@@ -131,6 +142,12 @@
 21. Unlike the aforementioned methods, our method ……
 
 - 不同于上述提到的模型，我们的方法……
+
+22. Although the methods mentioned above are effective, we believe that they are not sufficient to produce satisfactory something (for example, CF embeddings).
+
+- 尽管上述提到的方法是有效的，但是我们认为它们仍不足以产生令人满意的xxx
+
+
 
 
 
