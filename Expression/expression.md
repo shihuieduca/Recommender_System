@@ -54,6 +54,8 @@
 - coefficient  系数，协同因素，合作的，共同作用的
 - distill  提取，蒸馏，使滴下
 - seamlessly  无缝地
+- in what follows  在下文中
+- w.r.t. (with regard to)  关于
 
 
 
@@ -146,6 +148,18 @@
 22. Although the methods mentioned above are effective, we believe that they are not sufficient to produce satisfactory something (for example, CF embeddings).
 
 - 尽管上述提到的方法是有效的，但是我们认为它们仍不足以产生令人满意的xxx
+
+23. The recently proposed method xxx alleviates the problem by doing something.
+
+- 近期提出的xxx方法做了xxx来缓解这个问题。
+
+24. xxx consistently yields the best performance on all the datasets.
+
+- xxx模型在所有数据集上始终保持最佳性能。
+
+25. xxx is consistently superior to all variants.
+
+- xxx模型始终优于所有变体。
 
 
 
