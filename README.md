@@ -9,6 +9,13 @@
 
 
 
+**[Reinforcement Learning](https://github.com/shihuieduca/Recommender_System/tree/master/Reinforcement%20Learning)**
+
+>  - Note (pdf, pptx)
+>  - [Zhou Bolei](https://space.bilibili.com/511221970/video)    [Li Hongyi](https://www.bilibili.com/video/BV1UE411G78S?p=1)
+
+
+
 **[Attention](https://github.com/shihuieduca/Recommender_System/tree/master/Related%20model/Attention)**
 
 >  - Attention is all you need
