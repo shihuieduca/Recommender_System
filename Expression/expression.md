@@ -45,7 +45,7 @@
 - suboptimal prediction  次优预测
 - ubiquitous  普遍存在的，无所不在的
 - crucial  重要的，决定性的，定局的，决断的
-- tackle the challenge  解决难题
+- tackle the challenge / problem  解决难题
 - from the holistic view of something  从xx的整体看出
 - empirically  以经验为主地
 - affinity  密切关系，吸引力，类同
@@ -56,6 +56,11 @@
 - seamlessly  无缝地
 - in what follows  在下文中
 - w.r.t. (with regard to)  关于
+- mitigate  减轻，缓解
+- in particular  特别地
+- a bundling with complementary items  有补充物品的捆绑
+- drawback  缺点
+- carry out  实行，执行
 
 
 
@@ -160,6 +165,14 @@
 25. xxx is consistently superior to all variants.
 
 - xxx模型始终优于所有变体。
+
+26. Recommender systems play a crucial role in mitigating the problem of information overload by suggesting users’ personalized items or services.
+
+- 推荐系统通过推荐用户的个性化项目或服务，在缓解信息过载问题方面起着至关重要的作用。
+
+27. Efforts have been made on utilizing reinforcement learning for recommender systems, such as ……
+
+- 人们在将强化学习应用于推荐系统这方面已经做出了许多努力，例如……
 
 
 
