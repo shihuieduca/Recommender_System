@@ -61,6 +61,8 @@
 - a bundling with complementary items  有补充物品的捆绑
 - drawback  缺点
 - carry out  实行，执行
+- for the sake of  为了，为了……的利益
+- but not vice versa  但反之亦然
 
 
 
