@@ -63,6 +63,10 @@
 - carry out  实行，执行
 - for the sake of  为了，为了……的利益
 - but not vice versa  但反之亦然
+- be ignorant of  不知道
+- depict  描绘
+- elaborate  精心制作的，详细阐述
+- henceforce  今后，从此以后
 
 
 
@@ -175,6 +179,12 @@
 27. Efforts have been made on utilizing reinforcement learning for recommender systems, such as ……
 
 - 人们在将强化学习应用于推荐系统这方面已经做出了许多努力，例如……
+
+28. It is worth emphasizing that ...
+
+- 值得强调的是……
+
+
 
 
 
