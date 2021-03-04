@@ -67,6 +67,7 @@
 - depict  描绘
 - elaborate  精心制作的，详细阐述
 - henceforce  今后，从此以后
+- off-the-shelf  现成的
 
 
 
