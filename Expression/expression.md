@@ -185,6 +185,14 @@
 
 - 值得强调的是……
 
+29. The main challenges are threefold.
+
+- 主要挑战有三个方面。
+
+30. Reinforcement Learning has attracted substantial interest in the research community.
+
+- 强化学习引起了研究界的极大兴趣。
+
 
 
 
