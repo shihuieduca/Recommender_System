@@ -2,6 +2,8 @@
 
 兼容性 ES6（ES2015）  IE10+、Chrome、FireFox、移动端、NodeJs
 
+#### String和Symbol有跳过一部分
+
 #### catalog
 
 - [变量](####**变量**)
@@ -187,7 +189,62 @@ console.log(isNaN(true));  // false 1
 - 字符字面量（\n换行、\t制表等）
 
 - 字符串不可变（必须先销毁原始字符串，然后将包含新值的另一个字符串保存到该变量）
+
 - 转换为字符串
+
+  - toString() 
+    	1. null和undefined每页toString()方法
+     	2. toString()不接收任何参数，但是在对数值调用时可以接受一个底数参数将数字转换为对应的进制的字符串
+  - String()
+    1. 如果值有toString()方法，直接调用该方法
+    2. null和undefined分别返回“null”和“undefined”
+
+  ```javascript
+  // toString()
+  let age = 11;
+  console.log(age.toString());  // "11"
+  console.log(age.toString(4));  // 规定进制 "23"
+  let flag = true;
+  console.log(flag.toString());  // "true"
+  
+  // String()
+  let value1 = 10;
+  let value2 = true;
+  let value3 = null;
+  let value4;
+  console.log(String(value1));  // "10"
+  console.log(String(value2));  // "true"
+  console.log(String(value3));  // "null"
+  console.log(String(value4));  // "undefined"
+  ```
+
+**另外，用加号操作符给一个值加上一个空字符串也可以将其转换为字符串。**
+
+- 模版字面量  保留换行字符，可以跨行定义字符串
+- 字符串插值
+
+```javascript
+let value = 5;
+let exponent = "second";
+let str = `${value} to the ${exponent} power is ${value * value}`;
+console.log(str);  // 5 to the second power is 25
+```
+
+6. **Symbol 类型**
+
+符号实例是唯一、不可变的
+
+```javascript
+let sym = Symbol();
+console.log(typeof sym);  // symbol
+
+// symbol不能与构造函数、与new关键字一起使用
+let mySymbol = new Symbol();  // TypeError: Symbol is not a constructor
+```
+
+7. **Object 类型**
+
+ECMAScript只要求在给构造函数提供参数时使用括号 (若没有参数，则可以省略括号)
 
 
 

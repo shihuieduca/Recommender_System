@@ -1,0 +1,17 @@
+.ceng{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 50%;
+	margin: 100px auto;
+	float: left;
+}
+/* circle/ellipse at top/center/top left/top right/bottom right/ bottom left等 */
+.circle{
+	margin-right: 20px;
+	background-image: radial-gradient(20px circle at center, orange, green, red);
+}
+
+.ellipse{
+	background-image: radial-gradient(20px 30px ellipse at center, orange, green, red);
+}

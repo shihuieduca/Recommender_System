@@ -1,0 +1,51 @@
+#wubian{
+	width: 54px;
+	height: 0px;
+	border-top: 50px solid red;
+	border-left: 18px solid transparent;
+	border-right: 18px solid transparent;
+	margin: 100px auto;
+	position: relative;
+}
+
+#wubian::after{
+	content: '';
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	border-bottom: 35px solid red;
+	border-left: 45px solid transparent;
+	border-right: 45px solid transparent;
+	top: -85px;
+	left: -18px;
+}
+
+#liubian{
+	width: 100px;
+	height: 55px;
+	background-color: red;
+	position: relative;
+	margin: 50px auto;
+}
+
+#liubian::before{
+	content: '';
+	width: 0px;
+	height: 0px;
+	border-bottom: 25px solid red;
+	border-right: 50px solid transparent;
+	border-left: 50px solid transparent;
+	position: absolute;
+	top: -25px;
+}
+
+#liubian::after{
+	content: '';
+	width: 0px;
+	height: 0px;
+	border-top: 25px solid red;
+	border-right: 50px solid transparent;
+	border-left: 50px solid transparent;
+	position: absolute;
+	top: 55px;
+}

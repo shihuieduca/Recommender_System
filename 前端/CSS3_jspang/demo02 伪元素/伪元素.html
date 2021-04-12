@@ -1,0 +1,54 @@
+<!-- 伪元素 -->
+<!-- :first-letter -->
+<!-- :first-line -->
+<!-- :before -->
+<!-- :after -->
+<!-- 使用伪元素必须有content属性 可以为空 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>伪元素</title>
+    <style type="text/css">
+        .demo{
+            border: 1px solid #ccc;
+            width: 300px;
+            margin: 50px auto;
+            padding: 10px;
+        }
+        .demo::first-letter{
+            font-size: 40px;
+            font-weight: bold;
+            float: left;
+        }
+        .demo::first-line{
+            color: #F66;
+        }
+        .demo01{
+            width: 300px;
+            border: 1px solid #ccc;
+            margin: 10px auto;
+            padding: 10px;
+            text-align: center;
+        }
+        .demo01::before{
+            content: url(./pic1.png);
+            display: block;
+        }
+        .demo01::after{
+            content: url(./pic2.png);
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="demo">
+        伪元素:before和:after可以做的东西是相当惊人的。对于页面上的每个元素，你拥有了两个更灵活、而且可以完成其他HTML元素都能完成的东西的元素。它们让一大堆有趣的设计成为可能，而且不会对你的语义标签产生负面影响。
+    </div>
+
+    <div class="demo01">
+        <div>玩转CSS3新特性</div>
+    </div>
+</body>
+</html>

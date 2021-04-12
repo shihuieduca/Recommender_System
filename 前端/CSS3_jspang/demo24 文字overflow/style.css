@@ -1,0 +1,22 @@
+.demo1{
+	margin: 30px auto;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	height: 50px;
+
+	text-overflow: clip;
+	overflow: hidden;
+}
+
+.demo2{
+	margin: 30px auto;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid #ccc;
+
+	-webkit-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}

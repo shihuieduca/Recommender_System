@@ -1,0 +1,39 @@
+<!-- border-radius -->
+<!-- 1、减少网站的维护工作量 -->
+<!-- 2、提高网站性能 -->
+<!-- 3、增加视觉美观性 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>border-radius</title>
+    <style type="text/css">
+    	.demo{
+    		width: 100px;
+    		height: 200px;
+    		border: 1px solid #ccc;
+    		background-color: #f66;
+    		margin: 50px auto;
+    		/*border-radius: 50%;*/
+
+    		/*border-top-left-radius: 50%;
+    		border-top-right-radius: 50%;
+    		border-bottom-left-radius: 50%;
+    		border-bottom-right-radius: 50%;*/
+
+    		/* 左上 右上 右下 左下 */
+    		/*border-radius: 100px 0px 0px 0px;*/
+
+    		/* x轴 y轴 不同半径 */
+    		/*border-top-left-radius: 100px 50px;*/
+
+    		/* 画半圆 */
+    		border-radius: 100px 0px 0px 100px;
+    	}
+    </style>
+</head>
+<body>
+    <div class="demo"></div>
+</body>
+</html>

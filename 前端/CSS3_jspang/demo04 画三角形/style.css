@@ -1,0 +1,19 @@
+/*.sanjiao{
+	border-top: 50px solid transparent;
+	border-left: 0px solid transparent;
+	border-bottom: 50px solid transparent;
+	border-right: 50px solid #00f;
+	width: 0px;
+	height: 0px;
+	margin: 50px auto;
+}*/
+
+.sanjiao{
+	border-top: 50px solid transparent;
+	border-left: 0px solid transparent;
+	border-bottom: 50px solid transparent;
+	border-right: 50px solid #000;
+	margin: 50px auto;
+	width: 0px;
+	height: 0px;
+}

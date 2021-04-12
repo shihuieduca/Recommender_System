@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>结构伪类选择器</title>
+    <style type="text/css">
+    	*{
+    		padding: 0px;
+    		margin: 0px;
+    	}
+    	.clearfix{
+    		clear: both;
+    		overflow: auto;
+    	}
+    	.demo{
+    		border: 1px solid #ccc;
+    		width: 300px;
+    		margin: 100px auto; 
+    		padding: 10px;
+    	}
+    	.demo li{
+    		float: left;
+    		list-style: none;
+    		padding: 2px;
+    		border: 1px solid #ccc;
+    		margin-right: 4px;
+    		width: 20px;
+    	}
+    	.demo a{
+    		display: block;
+    		width: 20px;
+    		height: 20px;
+    		text-align: center;
+    		border-radius: 50%;
+    		background-color: #f36;
+    		text-decoration: none;
+    	}
+    	/* 结构伪类选择器 */
+
+    	/* first-child选择标签的第一个子元素 */
+
+    	/* last-child选择标签的第一个子元素 */
+
+    	/* nth-child(n)选择标签的第n个子元素  2n或even选择偶数行 2n+1或odd选择奇数行 n+5选择第五个之后的*/
+    	/* nth-last-child(n)倒序选择标签的第n个子元素 也可以是表达式*/
+
+    	/* nth-of-type(n)可以限制标签*/
+    	/* nth-last-of-type(n)可以倒序限制标签*/
+
+    	/* first-of-type()*/
+    	/* last-of-type()*/
+
+    	/* only-child() 选择只有一个子元素的*/
+
+    	/* only-of-type() */
+
+    	/* empty选择的元素里没有任何内容 */
+
+
+
+    	.demo li:empty{
+    		background-color: #0f0;
+    	}
+
+    </style>
+</head>
+<body>
+    <div class="demo clearfix">
+    	<ul class="clearfix">
+    		<li><a href="">1</a></li>
+    		<li><a href="">2</a></li>
+    		<li><a href="">3</a></li>
+    		<li><a href="">4</a></li>
+    		<li><a href="">5</a></li>
+    		<li><a href="">6</a></li>
+    		<li><a href="">7</a></li>
+    		<li><a href="">8</a></li>
+    		<li><a href="">9</a></li>
+    		<li><a href="">10</a></li>
+    	</ul>
+    </div>
+
+    <div class="demo clearfix">
+    	<ul class="clearfix">
+    		<li></li>
+    	</ul>
+    </div>
+</body>
+</html>

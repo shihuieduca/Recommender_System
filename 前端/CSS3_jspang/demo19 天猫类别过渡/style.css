@@ -1,0 +1,38 @@
+.main{
+	width: 250px;
+	height: 270px;
+	border: 1px solid #ccc;
+	margin: 50px auto;
+	font-family: 'Microsoft YaHei';
+	cursor: pointer;
+}
+
+.m_title{
+	text-align: left;
+	font-size: 20px;
+	padding: 20px 10px 10px 10px;
+}
+
+.m_content{
+	color: #11ccaa;
+	padding: 0px 10px 10px 10px;
+}
+
+.m_img{
+	text-align: right;
+	position: relative;
+}
+
+.m_img img{
+	position: absolute;
+	width: 180px;
+	top: 0px;
+	right: 0px;
+	-webkit-transition: right .3s;
+	-o-transition: right .3s;
+	transition: right .3s;
+}
+
+.main:hover img{
+	right: 15px;
+}
